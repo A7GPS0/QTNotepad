@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/oFOzkGmtZSXVetgt31QtyQ==.ico</file>
+        <file>images/print_pref.ico</file>
+        <file>images/PROSetACU_ICON.ico</file>
+        <file>images/ResourceManager.ico</file>
+        <file>images/SC_Reader.ico</file>
+        <file>images/UnrealEngineLauncher.ico</file>
+        <file>images/wmp.ico</file>
+        <file>images/DHFTqTiow5dtJhiMLsVQ9Q==.ico</file>
+        <file>images/netfol.ico</file>
+    </qresource>
+</RCC>
